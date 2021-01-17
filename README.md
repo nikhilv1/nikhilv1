@@ -2,7 +2,7 @@
 
 ### I'm Nikhil Vinay, a Full Stack Web Developer!
 
-- 🔭 I’m currently working at [Infosys](https://www.infosys.com/),.
+- 🔭 Upcoming Software Eng. at [Infosys](https://www.infosys.com/).
 - 🌱 I’m currently learning as much as I possibly can..😅
 - 👯 I’m looking to collaborate on innovative ideas.
 - 🥅 2020 Goals: Contribute more to Open Source projects 😎
@@ -35,17 +35,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nikhilv1.visitor_count)
 
-<!--START_SECTION:waka-->
-```text
-Week: 09 January, 2021 - 16 January, 2021
 
-TypeScript   1 hr 1 min      ██████████████▒░░░░░░░░░░   56.74 % 
-Other        24 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.22 % 
-Solidity     11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-JSON         8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-JavaScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-```
-<!--END_SECTION:waka-->
 
 <summary>GitHub Stats</summary>
 
