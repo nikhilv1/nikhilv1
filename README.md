@@ -2,7 +2,7 @@
 
 ### I'm Nikhil Vinay, a Full Stack Web Developer!
 
-- 🔭 Upcoming Software Eng. at [Infosys](https://www.infosys.com/).
+- 🔭 Upcoming Software Eng. at [..](https://www....com/).
 - 🌱 I’m currently learning as much as I possibly can..😅
 - 👯 I’m looking to collaborate on innovative ideas.
 - 🥅 2020 Goals: Contribute more to Open Source projects 😎
