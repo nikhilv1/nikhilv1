@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning as much as I possibly can..😅
 - 👯 I’m looking to collaborate on innovative ideas.
-- 🥅 2020 Goals: Contribute more to Open Source projects 😎
+- 🥅 2022 Goals: Contribute more to Open Source projects 😎
 - ⚡ Fun fact: I've gained wide breadth of knowledge just due to curiosity.
 <!-- - Checkout my [ comp nm Github Id](https://github.com/url) 💪 -->
 
